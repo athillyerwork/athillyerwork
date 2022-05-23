@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @athillyerwork
-- 👀 I’m interested in parallel programming, optimizations, systems automation, and even game design and development.
+- 👀 I’m interested in parallel programming, optimizations, systems automation, and even game design/development.
 - 🌱 I’m currently learning C# with the .NET framework
 
 <!---
